@@ -1,0 +1,6 @@
+---
+# tasks file for role1
+
+- name: do nothing
+  command: echo "hi"
+  changed_when: false
